@@ -49,7 +49,7 @@ Here are some of my key projects, showcasing a range of my development skills:
 * **🌍 Open World – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[GitHub Repo](https://github.com/Gxaniket/Open-World-Game)]
 * **🛒 Fullstack E-Commerce Website:** A comprehensive MERN stack application for online shopping. [[GitHub Repo](https://github.com/Gxaniket/ShopSmart-Full_Stack)]
 * **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
-* **🌐 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
+* **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
 ---
 
 ## 📊 GitHub Statistics
