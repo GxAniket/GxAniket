@@ -13,9 +13,9 @@
 Hello! I'm Aniket Sundriyal, a passionate developer with a keen interest in building innovative solutions.
 
 **🔭 What I'm currently working on:**
-* **AI Projects:** Exploring the cutting edge of artificial intelligence to create intelligent systems.
-* **Full Stack Web Development:** Building robust and scalable web applications from front to back.
-* **Game Development:** Crafting engaging and immersive gaming experiences.
+* AI Projects.
+* Full Stack Web Development.
+* Game Development.
 
 **🌱 My learning journey:**
 I'm continuously expanding my skillset, currently diving deep into **Java DSA**, mastering the **MERN Stack**, and advancing my knowledge in **AI/ML**.
