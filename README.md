@@ -35,7 +35,7 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,unity,cs,java,python,mongodb,git,github,aiscript,vscode,docker,tailwind,firebase&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,unity,cs,java,python,mongodb,linux,git,github,aiscript,vscode,docker,tailwind,firebase&perline=8" alt="My Tech Stack" />
 </p>
 
 ---
