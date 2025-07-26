@@ -59,6 +59,15 @@ Here are some of my key projects, showcasing a range of my development skills:
 </p>
 
 ---
+<p>
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gxaniket&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxaniket&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gxaniket&theme=radical)
+<\p>
+---
+
 
 ## 📈 GitHub Contribution Graph
 
