@@ -64,13 +64,6 @@ Here are some of my key projects, showcasing a range of my development skills:
 </p>
 ---
 
-✅ Markdown to Use:
-
-![GitHub Streak](https://camo.githubusercontent.com/4520a1820246d428205014c377eb38c90e3202bc912fdc0f2f939e784d16be02/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616d69722d6173706164267468656d653d7261646963616c)
-
-
----
-
 📌 Optional (cleaner & directly sourced version):
 
 If you'd rather use the direct version (not camo-wrapped), use this:
