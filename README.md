@@ -59,6 +59,8 @@ Here are some of my key projects, showcasing a range of my development skills:
 </p>
 
 ---
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gxaniket&theme=radical" alt="GitHub Streak" />
 </p>
