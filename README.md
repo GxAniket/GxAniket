@@ -62,24 +62,8 @@ Here are some of my key projects, showcasing a range of my development skills:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gxaniket&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
-
-📌 Optional (cleaner & directly sourced version):
-
-If you'd rather use the direct version (not camo-wrapped), use this:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amir-aspad&theme=radical)
-
-> 🔁 Just change amir-aspad to your own username if needed.
-
-
-
-Let me know if you'd like it centered, resized, or styled with headers!
-
-
-</p>
----
-
 
 ## 📈 GitHub Contribution Graph
 
