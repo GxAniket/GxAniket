@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-website-url.com" target="_blank">
+  <a href="https://gxaniket.github.io/Aniket-Portfolio-01/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit My Portfolio Button"/>
   </a>
 </p>
@@ -57,7 +57,8 @@ Here are some of my key projects, showcasing a range of my development skills:
 * **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
 * **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
 * **🩺 diabetes-prediction-app:** A web application built with Flask that predicts the risk of diabetes based on user inputs using a trained machine learning model. [[GitHub Repo](https://gxaniket.github.io/diabetes-prediction-app)]
-* **🌐 Portfolio Website:** This very site! Built to showcase my skills, projects, and contact info using modern web design practices.[[GitHub Repo]([https://github.com/Gxaniket/Portfolio](https://gxaniket.github.io/Aniket-Portfolio-01/))]
+* **🌐 Portfolio Website:** This very site! Built to showcase my skills, projects, and contact info using modern web design practices.[[GitHub Repo](https://gxaniket.github.io/Aniket-Portfolio-01/)]
+
 ---
 
 ## 📊 GitHub Statistics
