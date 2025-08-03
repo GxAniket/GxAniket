@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Aniket Sundriyal: Fullstack Developer, Software Engineer, Game Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Ai+Software+Engineer;Game+Developer" alt="Aniket Sundriyal: Fullstack Developer, Ai Software Engineer, Game Developer" />
 </p>
 
 ---
@@ -50,14 +50,14 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
 
 Here are some of my key projects, showcasing a range of my development skills:
 
-* **🔐 Encryptor/Decryptor Tool:** A secure, JavaScript-based tool for file encryption and decryption. [[🔗 GitHub Repo](https://github.com/Gxaniket/encryptor-decryptor)]
-* **🩺 HumaNova – AI Doctor Assistant:** An AI-powered health chatbot designed to provide intelligent assistance. [[🔗 GitHub Repo](https://github.com/Gxaniket/HumaNova-AI)]
-* **🌍 Open World – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[🔗 GitHub Repo](https://github.com/Gxaniket/Open-World-Game)]
-* **🛒 Fullstack E-Commerce Website:** A comprehensive MERN stack application for online shopping. [[🔗 GitHub Repo](https://github.com/Gxaniket/ShopSmart-Full_Stack)]
-* **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[🔗 GitHub Repo](https://github.com/Gxaniket/Portfolio)]
-* **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[🔗 GitHub Repo](https://github.com/Gxaniket/music-player)]
+* **🔐 Encryptor/Decryptor Tool:** A secure, JavaScript-based tool for file encryption and decryption. [[GitHub Repo](https://github.com/Gxaniket/encryptor-decryptor)]
+* **🩺 HumaNova – AI Doctor Assistant:** An AI-powered health chatbot designed to provide intelligent assistance. [[GitHub Repo](https://github.com/Gxaniket/HumaNova-AI)]
+* **🌍 Open World – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[GitHub Repo](https://github.com/Gxaniket/Open-World-Game)]
+* **🛒 Fullstack E-Commerce Website:** A comprehensive MERN stack application for online shopping. [[GitHub Repo](https://github.com/Gxaniket/ShopSmart-Full_Stack)]
+* **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
+* **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
 * **🩺 diabetes-prediction-app:** A web application built with Flask that predicts the risk of diabetes based on user inputs using a trained machine learning model. [[GitHub Repo](https://gxaniket.github.io/diabetes-prediction-app)]
-* **🌐 Portfolio Website:** This very site! Built to showcase my skills, projects, and contact info using modern web design practices.[[🔗 GitHub Repo](https://github.com/Gxaniket/Portfolio)]
+* **🌐 Portfolio Website:** This very site! Built to showcase my skills, projects, and contact info using modern web design practices.[[GitHub Repo]([https://github.com/Gxaniket/Portfolio](https://gxaniket.github.io/Aniket-Portfolio-01/))]
 ---
 
 ## 📊 GitHub Statistics
