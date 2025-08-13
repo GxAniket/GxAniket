@@ -1,10 +1,15 @@
 <h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
 
+---
+
 <p align="center">
-  <a href="https://gxaniket.github.io/Aniket-Portfolio-01/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit My Portfolio Button"/>
-  </a>
+  📜 <strong>License & Copyright</strong><br><br>
+  🚫 All repositories © Aniket Sundriyal (GxAniket) — Unauthorized copying, modification, or distribution is strictly prohibited.<br>
+  📩 For usage or collaboration requests, please <a href="mailto:sundriyalaniket@gmail.com">contact me</a>.
 </p>
+
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Ai+Software+Engineer;Game+Developer" alt="Aniket Sundriyal: Fullstack Developer, Ai Software Engineer, Game Developer" />
