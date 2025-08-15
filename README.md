@@ -62,7 +62,6 @@ Here are some of my key projects, showcasing a range of my development skills:
 * **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
 * **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
 * **🩺 diabetes-prediction-app:** A web application built with Flask that predicts the risk of diabetes based on user inputs using a trained machine learning model. [[GitHub Repo](https://gxaniket.github.io/diabetes-prediction-app)]
-* **🌐 Portfolio Website:** This very site! Built to showcase my skills, projects, and contact info using modern web design practices.[[GitHub Repo](https://gxaniket.github.io/Aniket-Portfolio-01/)]
 
 ---
 
