@@ -57,7 +57,7 @@ Here are some of my key projects, showcasing a range of my development skills:
 
 * **🔐 Encryptor/Decryptor Tool:** A secure, JavaScript-based tool for file encryption and decryption. [[GitHub Repo](https://github.com/Gxaniket/encryptor-decryptor)]
 * **🩺 HumaNova – AI Doctor Assistant:** An AI-powered health chatbot designed to provide intelligent assistance. [[GitHub Repo](https://github.com/Gxaniket/HumaNova-AI)]
-* **🌍 Open World – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[GitHub Repo](https://gxaniket.github.io/My-College-Life--Game/)]
+* **🌍 My College Life – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[GitHub Repo](https://gxaniket.github.io/My-College-Life/)]
 * **🛒 Fullstack E-Commerce Website:** A comprehensive MERN stack application for online shopping. [[[GitHub Repo](https://github.com/Gxaniket/ShopSmart-Full_Stack)]]
 * **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
 * **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
