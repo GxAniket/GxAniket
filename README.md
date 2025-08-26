@@ -101,10 +101,6 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -117,16 +113,21 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
       <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
     </td>
   </tr>
 </table>
 </div>
+
 
 ---
 
