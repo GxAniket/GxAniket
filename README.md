@@ -1,14 +1,4 @@
 <h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
-
----
-
-<p align="center">
-  📜 <strong>License & Copyright</strong><br><br>
-  🚫 All repositories © Aniket Sundriyal (GxAniket) — Unauthorized copying, modification, or distribution is strictly prohibited.<br>
-  📩 For usage or collaboration requests, please <a href="mailto:sundriyalaniket@gmail.com">contact me</a>.
-</p>
-
-
 ---
 
 <p align="center">
