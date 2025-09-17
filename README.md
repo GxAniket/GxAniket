@@ -131,9 +131,9 @@ Here are some of my key projects, showcasing a range of my development skills:
 
 * **🔐 Encryptor/Decryptor Tool:** A secure, JavaScript-based tool for file encryption and decryption. [[GitHub Repo](https://github.com/Gxaniket/encryptor-decryptor)]
 * **🩺 Aniket-HealthAI – AI Doctor Assistant:** An AI-powered health chatbot designed to provide intelligent assistance. [[GitHub Repo](https://github.com/Gxaniket/Aniket-HealthAI)]
-* **🌍 My College Life – AI Game:** An experimental game integrating artificial intelligence for dynamic gameplay. [[GitHub Repo](https://gxaniket.github.io/My-College-Life/)]
 * **🌐 Portfolio Website:** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/Portfolio)]
 * **🎧 Music Player :** The very site you're Browse, built to showcase my work and skills. [[GitHub Repo](https://github.com/Gxaniket/music-player)]
+* **🌍My College Life — AI Simulation Game:** A Unity-based college simulation featuring AI NPC students and teachers. [GitHub Repo](https://gxaniket.github.io/My-College-Life/)
 * **🛒 Aniket HealthAI — Health Platform & Telemedicine:** Full-stack web app for online medicine ordering and video consultations with real doctors. [GitHub Repo](https://gxaniket.github.io/Aniket-HealthAI-Web/)
 * **🩺 diabetes-prediction-app:** A web application built with Flask that predicts the risk of diabetes based on user inputs using a trained machine learning model. [[GitHub Repo](https://gxaniket.github.io/diabetes-prediction-app)]
 
