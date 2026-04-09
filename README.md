@@ -123,12 +123,6 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 
 ---
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rxyU5V12At?theme=nord" width="500"/>
-</p>
-
----
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
