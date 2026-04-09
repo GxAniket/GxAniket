@@ -103,6 +103,10 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/rxyU5V12At?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/rxyU5V12At/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
