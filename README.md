@@ -47,7 +47,6 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
 </tr>
 
 <tr>
@@ -56,7 +55,6 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
 </tr>
 
 <tr>
@@ -64,17 +62,15 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
 </tr>
 
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
 </tr>
 
 </table>
