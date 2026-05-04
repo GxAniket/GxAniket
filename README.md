@@ -10,7 +10,7 @@
 
 ---
 
-<table width="100%">
+<table width="102%">
 <tr>
 <td valign="top" width="60%">
 
