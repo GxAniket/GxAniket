@@ -1,11 +1,13 @@
-<h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
+<h1 align="center">🧑‍💻 Aniket Sundriyal 🧑‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GxAniket&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Software+Engineer;Game+Developer;AI+%2F+ML+Enthusiast" />
+  <a href="https://aniket-portfolio-react.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -14,7 +16,7 @@
 <tr>
 <td valign="top" width="60%">
 
-Hello! I'm **Aniket Sundriyal**, a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
+Hello! I'm a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
 
 ### 🌱 Learning Journey
 Currently diving deep into:
@@ -80,22 +82,22 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 
 ## 🚀 Featured Projects
 
-* 🔐 Encryptor / Decryptor Tool
+* 🔐 **Encryptor / Decryptor Tool**
 Secure JavaScript-based file encryption & decryption application. [GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
 
-*  🌐 Portfolio Website
-Responsive personal portfolio showcasing projects and skills.[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+* 🌐 **Portfolio Website**
+Responsive personal portfolio showcasing projects and skills. [GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
 
-* 🎧 Music Player
+* 🎧 **Music Player**
 Frontend-based music player with interactive UI controls. [GitHub Repo](https://github.com/GxAniket/music-player)
 
-* 🌍 My College Life — AI Simulation Game
-Unity-based college simulation featuring AI-driven NPCs.  [GitHub Repo](https://github.com/GxAniket/My-College-Life)
+* 🌍 **My College Life — AI Simulation Game**
+Unity-based college simulation featuring AI-driven NPCs. [GitHub Repo](https://github.com/GxAniket/My-College-Life)
 
-*  🧠 Multi-Disease Prediction System
-Machine learning–based web application built with Flask that predicts disease risk using trained ML models.[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+* 🧠 **Multi-Disease Prediction System**
+Machine learning–based web application built with Flask that predicts disease risk using trained ML models. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
 
-*  🛒 E-Commerce Web Application
+* 🛒 **E-Commerce Web Application**
 Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing. [GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
 
 ---
@@ -113,9 +115,8 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 </p>
 
 <p align="center">
-  💡 Solving Data Structures & Algorithms problems consistently to strengthen coding skills.
+  💡 Consistently strengthening coding skills with over <strong>200+ Data Structures & Algorithms problems</strong> solved.
 </p>
-
 
 ---
 
