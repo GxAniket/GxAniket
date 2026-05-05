@@ -94,8 +94,8 @@ Frontend-based music player with interactive UI controls. [GitHub Repo](https://
 * 🌍 **My College Life — AI Simulation Game**
 Unity-based college simulation featuring AI-driven NPCs. [GitHub Repo](https://github.com/GxAniket/My-College-Life)
 
-* 🧠 **Multi-Disease Prediction System**
-Machine learning–based web application built with Flask that predicts disease risk using trained ML models. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+* 🧠 **Diabetes Prediction App**
+A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
 
 * 🛒 **E-Commerce Web Application**
 Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing. [GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
