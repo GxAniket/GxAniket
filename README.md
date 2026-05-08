@@ -143,9 +143,9 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discord" width="48"/><br>Discord
+  <img src="https://skillicons.dev/icons?i=express" width="48"/><br>
+  Express.js
 </td>
-</tr>
 
 </table>
 </div>
