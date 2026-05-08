@@ -1,12 +1,25 @@
 <h1 align="center">🧑‍💻 Aniket Sundriyal 🧑‍💻</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GxAniket&label=Profile%20views&color=0e75b6&style=flat" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Next.js+%7C+Spring+Boot;Building+Modern+Web+%26+AI+Projects"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://aniket-portfolio-react.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=GxAniket&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="profile views"
+  />
+</p>
+
+<p align="center">
+  <a href="https://aniket-portfolio-react.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="portfolio"
+    />
   </a>
 </p>
 
