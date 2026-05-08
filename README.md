@@ -44,35 +44,107 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <table>
 
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
+</td>
 </tr>
 
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48"/><br>VirtualBox
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
 </tr>
 
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
 </tr>
 
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48"/><br>Discord
+</td>
 </tr>
 
 </table>
