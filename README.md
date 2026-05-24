@@ -35,7 +35,7 @@ Hello! I'm a passionate developer focused on building scalable full-stack system
 Currently diving deep into:
 - Advanced **Java DSA**
 - **MERN Stack**
-- Backend Architecture
+- System Architecture
 - AI/ML Systems
 
 ### ⚡ Fun Fact
