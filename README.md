@@ -51,6 +51,45 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 
 ---
 
+## 🚀 Featured Projects
+
+* 🔐 **Encryptor / Decryptor Tool**
+Secure JavaScript-based file encryption & decryption application. [GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
+
+* 🌐 **Portfolio Website**
+Responsive personal portfolio showcasing projects and skills. [GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+
+* 🎧 **Music Player**
+Frontend-based music player with interactive UI controls. [GitHub Repo](https://github.com/GxAniket/music-player)
+
+* 🌍 **My College Life — AI Simulation Game**
+Unity-based college simulation featuring AI-driven NPCs. [GitHub Repo](https://github.com/GxAniket/My-College-Life)
+
+* 🧠 **Diabetes Prediction App**
+A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+
+* 🛒 **E-Commerce Web Application**
+Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing. [GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
+
+---
+
+## 🧠 LeetCode & Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rxyU5V12At?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rxyU5V12At/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Consistently strengthening coding skills with over <strong>200+ Data Structures & Algorithms problems</strong> solved.
+</p>
+
+---
 ## 💻 Tech Stack
 
 <div align="center">
@@ -162,46 +201,6 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 
 </table>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-* 🔐 **Encryptor / Decryptor Tool**
-Secure JavaScript-based file encryption & decryption application. [GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
-
-* 🌐 **Portfolio Website**
-Responsive personal portfolio showcasing projects and skills. [GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
-
-* 🎧 **Music Player**
-Frontend-based music player with interactive UI controls. [GitHub Repo](https://github.com/GxAniket/music-player)
-
-* 🌍 **My College Life — AI Simulation Game**
-Unity-based college simulation featuring AI-driven NPCs. [GitHub Repo](https://github.com/GxAniket/My-College-Life)
-
-* 🧠 **Diabetes Prediction App**
-A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
-
-* 🛒 **E-Commerce Web Application**
-Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing. [GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
-
----
-
-## 🧠 LeetCode & Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rxyU5V12At?theme=dark&ext=heatmap" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/rxyU5V12At/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
-<p align="center">
-  💡 Consistently strengthening coding skills with over <strong>200+ Data Structures & Algorithms problems</strong> solved.
-</p>
 
 ---
 
