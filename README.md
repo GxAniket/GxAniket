@@ -53,23 +53,85 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 
 ## 🚀 Featured Projects
 
-* 🔐 **Encryptor / Decryptor Tool**
-Secure JavaScript-based file encryption & decryption application. [GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-* 🌐 **Portfolio Website**
-Responsive personal portfolio showcasing projects and skills. [GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+### 🔐 Encryptor / Decryptor Tool
+Secure JavaScript-based file encryption & decryption application.
 
-* 🎧 **Music Player**
-Frontend-based music player with interactive UI controls. [GitHub Repo](https://github.com/GxAniket/music-player)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AES-256](https://img.shields.io/badge/-AES--256--GCM-2ECC71?style=flat-square)
 
-* 🌍 **My College Life — AI Simulation Game**
-Unity-based college simulation featuring AI-driven NPCs. [GitHub Repo](https://github.com/GxAniket/My-College-Life)
+&nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
 
-* 🧠 **Diabetes Prediction App**
-A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment. [GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+</td>
+<td width="50%" valign="top">
 
-* 🛒 **E-Commerce Web Application**
-Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing. [GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
+### 🌐 Portfolio Website
+Responsive personal portfolio showcasing projects and skills.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 Music Player
+Frontend-based music player with interactive UI controls.
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/music-player)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 My College Life — AI Simulation Game
+Unity-based college simulation featuring AI-driven NPCs.
+
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/My-College-Life)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Diabetes Prediction App
+A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Web Application
+Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,6 +152,7 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 </p>
 
 ---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -223,5 +286,8 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
   </a>
   <a href="https://www.linkedin.com/in/aniket-sundriyal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aniket_sundriyal/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
