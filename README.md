@@ -57,69 +57,6 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Encryptor / Decryptor Tool
-Secure JavaScript-based file encryption & decryption application.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AES-256](https://img.shields.io/badge/-AES--256--GCM-2ECC71?style=flat-square)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-Responsive personal portfolio showcasing projects and skills.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 Music Player
-Frontend-based music player with interactive UI controls.
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/music-player)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 My College Life — AI Simulation Game
-Unity-based college simulation featuring AI-driven NPCs.
-
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/My-College-Life)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Diabetes Prediction App
-A machine learning app built with Python, Flask, and Scikit-learn for automated diabetes risk assessment.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛒 E-Commerce Web Application
 Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing.
 
@@ -129,6 +66,86 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 
 &nbsp;[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
 
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Diabetes Prediction App
+Machine learning application built with Python, Flask, and Scikit-learn for automated diabetes risk assessment.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather App (Next.js)
+Modern weather application built with Next.js and OpenWeatherMap API featuring real-time weather updates, temperature, humidity, wind speed, and responsive UI.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![OpenWeatherMap](https://img.shields.io/badge/-OpenWeatherMap-FFB703?style=flat-square)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Encryptor / Decryptor Tool
+Secure JavaScript-based file encryption & decryption application using AES-GCM encryption.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AES-256](https://img.shields.io/badge/-AES--256--GCM-2ECC71?style=flat-square)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 My College Life — AI Simulation Game
+Unity-based college simulation featuring AI-driven NPCs and immersive gameplay mechanics.
+
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/My-College-Life)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 Music Player
+Frontend-based music player with interactive UI controls and audio playback features.
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/music-player)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+Responsive personal portfolio showcasing projects, skills, achievements, and experience.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
