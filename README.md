@@ -50,11 +50,22 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### 🤖 Gx Aniket AI Agent
+AI-powered personal productivity assistant featuring intelligent conversations, task management, notes, memory, automation tools, and modern user experience.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20Agent-00F7FF?style=flat-square)
+
+&nbsp;[GitHub Repo](https://github.com/GxAniket/Gx-Aniket-Ai-Agent)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Web Application
@@ -67,6 +78,9 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 &nbsp;[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Diabetes Prediction App
@@ -79,9 +93,6 @@ Machine learning application built with Python, Flask, and Scikit-learn for auto
 &nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🌦️ Weather App (Next.js)
@@ -94,6 +105,9 @@ Modern weather application built with Next.js and OpenWeatherMap API featuring r
 &nbsp;[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🔐 Encryptor / Decryptor Tool
@@ -105,9 +119,6 @@ Secure JavaScript-based file encryption & decryption application using AES-GCM e
 &nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🌍 My College Life — AI Simulation Game
@@ -119,6 +130,9 @@ Unity-based college simulation featuring AI-driven NPCs and immersive gameplay m
 &nbsp;[GitHub Repo](https://github.com/GxAniket/My-College-Life)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎧 Music Player
@@ -131,9 +145,6 @@ Frontend-based music player with interactive UI controls and audio playback feat
 &nbsp;[GitHub Repo](https://github.com/GxAniket/music-player)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
@@ -145,12 +156,11 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 &nbsp;[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
 
 </td>
-<td width="50%" valign="top">
-</td>
 </tr>
 </table>
 
 ---
+
 
 ## 🧠 LeetCode & Problem Solving
 
