@@ -294,14 +294,6 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 
 ---
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GxAniket&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
