@@ -121,13 +121,13 @@ Secure JavaScript-based file encryption & decryption application using AES-GCM e
 </td>
 <td width="50%" valign="top">
 
-### 🌍 My College Life — AI Simulation Game
-Unity-based college simulation featuring AI-driven NPCs and immersive gameplay mechanics.
+### 🚗 Unity Car Racing Game
+A Unity-based 3D car racing game featuring realistic vehicle controls, smooth driving physics, checkpoints, and immersive gameplay.
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/My-College-Life)
+&nbsp;[GitHub Repo](https://github.com/GxAniket/Car Simulation)
 
 </td>
 </tr>
