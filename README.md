@@ -122,7 +122,7 @@ Secure JavaScript-based file encryption & decryption application using AES-GCM e
 <td width="50%" valign="top">
 
 ### 🚗 Unity Car Racing Game
-A Unity-based 3D car racing game featuring realistic vehicle controls, smooth driving physics, checkpoints, and immersive gameplay.
+A Unity-based 3D car racing game featuring realistic vehicle controls, smooth driving physics and immersive gameplay.
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
