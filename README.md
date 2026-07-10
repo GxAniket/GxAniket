@@ -24,32 +24,6 @@
 </p>
 
 ---
-
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
-
-Hello! I'm a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
-
-### 🌱 Learning Journey
-Currently diving deep into:
-- Advanced **Java DSA**
-- **MERN Stack**
-- System Architecture
-- AI/ML Systems
-
-### ⚡ Fun Fact
-Coffee ☕ + Music 🎧 = Faster Debugging 🚀
-
-</td>
-
-<td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlvazE4eGpha2I0cHU3cWtwdXpzMGZyMDBxYmxuMjRwdW5oN2Y5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</td>
-</tr>
-</table>
-
----
 ## 🚀 Featured Projects
 
 <table width="100%">
