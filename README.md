@@ -30,18 +30,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Gx Aniket AI Agent
-AI-powered personal productivity assistant featuring intelligent conversations, task management, notes, memory, automation tools, and modern user experience.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Agent-00F7FF?style=flat-square)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/Gx-Aniket-Ai-Agent)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛒 E-Commerce Web Application
 Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing.
 
@@ -52,9 +40,6 @@ Full-stack e-commerce platform featuring authentication, product listings, cart 
 &nbsp;[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Diabetes Prediction App
@@ -67,6 +52,9 @@ Machine learning application built with Python, Flask, and Scikit-learn for auto
 &nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🌦️ Weather App (Next.js)
@@ -79,9 +67,6 @@ Modern weather application built with Next.js and OpenWeatherMap API featuring r
 &nbsp;[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔐 Encryptor / Decryptor Tool
@@ -91,17 +76,6 @@ Secure JavaScript-based file encryption & decryption application using AES-GCM e
 ![AES-256](https://img.shields.io/badge/-AES--256--GCM-2ECC71?style=flat-square)
 
 &nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Unity Car Racing Game
-A Unity-based 3D car racing game featuring realistic vehicle controls, smooth driving physics and immersive gameplay.
-
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-
-&nbsp;[GitHub Repo](https://github.com/GxAniket/Car-Simulation)
 
 </td>
 </tr>
@@ -133,6 +107,7 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 </tr>
 </table>
 
+---
 ---
 
 
