@@ -230,7 +230,7 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>pgAdmin
 </td>
 
 <td align="center" width="96">
