@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://aniket-portfolio-react.vercel.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
+      src="https://img.shields.io/badge/🚀%20Live%20Portfolio%20CLICK%20HERE-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="portfolio"
     />
   </a>
