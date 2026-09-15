@@ -243,7 +243,7 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🧑‍💻
 
 <p align="center">
   <a href="https://github.com/GxAniket">
