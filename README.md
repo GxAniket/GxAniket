@@ -243,6 +243,25 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 
 ---
 
+## 📊 My GitHub Data
+
+<div align="center">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight" 
+    alt="Aniket's GitHub Stats"
+  />
+
+<img 
+ align="center" 
+ src="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=tokyonight" 
+ alt="Aniket's GitHub Streak"
+/>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me 🧑‍💻
 
 <p align="center">
@@ -255,7 +274,7 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
   <a href="https://www.linkedin.com/in/aniket-sundriyal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aniket_sundriyal/">
+  <a href="https://www.instagram.com/whitehat_aniket/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
