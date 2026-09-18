@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+ML;React+%7C+Next.js+%7C+Spring+Boot;Building+Modern+Web+%26+AI+Projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast"
     alt="Typing SVG"
   />
 </p>
