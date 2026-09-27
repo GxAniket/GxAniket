@@ -27,29 +27,31 @@
 ## 🚀 Featured Projects
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Web Application
+
 Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
+[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Diabetes Prediction App
-Machine learning application built with Python, Flask, and Scikit-learn for automated diabetes risk assessment.
+
+Machine-learning application built with Python, Flask, and scikit-learn for diabetes risk assessment.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
+[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
 
 </td>
 </tr>
@@ -58,24 +60,26 @@ Machine learning application built with Python, Flask, and Scikit-learn for auto
 <td width="50%" valign="top">
 
 ### 🌦️ Weather App (Next.js)
-Modern weather application built with Next.js and OpenWeatherMap API featuring real-time weather updates, temperature, humidity, wind speed, and responsive UI.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+Weather app with current conditions, temperature, humidity, and wind speed using the OpenWeatherMap API.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![OpenWeatherMap](https://img.shields.io/badge/-OpenWeatherMap-FFB703?style=flat-square)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
+[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Encryptor / Decryptor Tool
-Secure JavaScript-based file encryption & decryption application using AES-GCM encryption.
+
+Browser-based file encryption and decryption using AES-GCM.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AES-256](https://img.shields.io/badge/-AES--256--GCM-2ECC71?style=flat-square)
+![AES-GCM](https://img.shields.io/badge/-AES--GCM-2ECC71?style=flat-square)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
+[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
 
 </td>
 </tr>
@@ -84,32 +88,162 @@ Secure JavaScript-based file encryption & decryption application using AES-GCM e
 <td width="50%" valign="top">
 
 ### 🎧 Music Player
-Frontend-based music player with interactive UI controls and audio playback features.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+Frontend music player with interactive controls and audio playback.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/music-player)
+[GitHub Repo](https://github.com/GxAniket/music-player)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-Responsive personal portfolio showcasing projects, skills, achievements, and experience.
+### ✅ Todo App
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+A modern personal productivity and task management application built with React.js.
 
-&nbsp;[GitHub Repo](https://github.com/GxAniket/Aniket-Portfolio-01)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Local Storage](https://img.shields.io/badge/Local_Storage-7952B3?style=flat-square)
+
+[GitHub Repo](https://github.com/GxAniket/todo-app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥊 UIT Campus Fighters
+
+A Unity-based 3D college fighting game featuring student characters, combat, combos, enemy AI, and university arenas.
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![3D Game Development](https://img.shields.io/badge/3D_Game_Development-6A5ACD?style=flat-square)
+![Game Design](https://img.shields.io/badge/Game_Design-8A2BE2?style=flat-square)
+
+[GitHub Repo](https://github.com/GxAniket/Uit-Campus-Fighters)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Integrated Logistics Intelligence Platform
+
+Full-stack logistics platform developed during my Infosys Springboard internship for shipment management, live tracking, ETA calculation, and delivery monitoring.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6A5ACD?style=flat-square)
+
+[GitHub Repo](https://github.com/GxAniket/Integrated-Logistics-Intelligence-Platform)
 
 </td>
 </tr>
 </table>
 
 ---
----
 
+## 💻 Tech Stack
+
+<div align="center">
+<table>
+
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/><br>VirtualBox
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="40"/><br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="40"/><br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>pgAdmin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express.js
+</td>
+</tr>
+
+</table>
+</div>
+
+---
 
 ## 🧠 LeetCode & Problem Solving
 
@@ -126,120 +260,6 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 <p align="center">
   💡 Consistently strengthening coding skills with over <strong>200+ Data Structures & Algorithms problems</strong> solved.
 </p>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-<table>
-
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48"/><br>VirtualBox
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>pgAdmin
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=express" width="48"/><br>
-  Express.js
-</td>
-
-</table>
-</div>
 
 ---
 
