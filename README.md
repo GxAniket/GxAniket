@@ -218,7 +218,7 @@ Responsive personal portfolio showcasing projects, skills, achievements, and exp
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel
 </td>
 
 <td align="center" width="96">
