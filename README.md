@@ -39,83 +39,105 @@ Currently   : Strengthening DSA and building full-stack projects 🚀
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<div align="center">
 <table>
+
 <tr>
-
-<td align="center" width="16%">
-
-<b>Frontend</b>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
 </td>
-
-<td align="center" width="16%">
-
-<b>Languages</b>
-
-<img src="https://skillicons.dev/icons?i=python,js,java,ts" />
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js
 </td>
-
-<td align="center" width="16%">
-
-<b>Backend</b>
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
 </td>
-
-<td align="center" width="16%">
-
-<b>Database</b>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript
 </td>
-
-<td align="center" width="16%">
-
-<b>DevOps</b>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java
 </td>
-
-<td align="center" width="16%">
-
-<b>Tools</b>
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,idea,vercel" />
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot
 </td>
-
 </tr>
-</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/><br>VirtualBox
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="40"/><br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="40"/><br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>pgAdmin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express.js
+</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
 <h2 align="center">📊 My GitHub Data</h2>
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight"
+  <img 
+    align="center" 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight" 
     alt="Aniket's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=tokyonight"
-    alt="Aniket's GitHub Streak"
   />
 
 </div>
