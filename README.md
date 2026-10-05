@@ -122,7 +122,7 @@ Currently   : Strengthening DSA and building full-stack projects 🚀
 <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>pgAdmin
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express.js
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>Machine Learning
 </td>
 </tr>
 
@@ -178,6 +178,10 @@ Currently   : Strengthening DSA and building full-stack projects 🚀
 
   <a href="https://www.linkedin.com/in/aniket-sundriyal">
     <img src="https://img.shields.io/badge/LinkedIn-Aniket_Sundriyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://t.me/whitehataniket">
+    <img src="https://img.shields.io/badge/Telegram-@whitehataniket-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 
   <a href="https://www.instagram.com/whitehat_aniket/">
