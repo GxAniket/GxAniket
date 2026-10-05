@@ -1,157 +1,32 @@
-<h1 align="center">🧑‍💻 Aniket Sundriyal 🧑‍💻</h1>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML;Unity+Game+Developer"
-    alt="Typing SVG"
-  />
-</p>
+<!-- Dynamic greeting banner — works in light & dark mode -->
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=GxAniket&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="profile views"
-  />
-</p>
+![Header Dark](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Aniket%20Sundriyal%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%40%20Infosys%20Springboard&descAlignY=58&descSize=18&animation=fadeIn#gh-dark-mode-only)
 
-<p align="center">
-  <a href="https://aniket-portfolio-react.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🚀%20Live%20Portfolio%20CLICK%20HERE-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="portfolio"
-    />
-  </a>
-</p>
-
----
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 E-Commerce Web Application
-
-Full-stack e-commerce platform featuring authentication, product listings, cart management, and order processing.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[GitHub Repo](https://github.com/GxAniket/ecommerce-fullstack-app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Diabetes Prediction App
-
-Machine-learning application built with Python, Flask, and scikit-learn for diabetes risk assessment.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-[GitHub Repo](https://github.com/GxAniket/diabetes-prediction-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather App (Next.js)
-
-Weather app with current conditions, temperature, humidity, and wind speed using the OpenWeatherMap API.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenWeatherMap](https://img.shields.io/badge/-OpenWeatherMap-FFB703?style=flat-square)
-
-[GitHub Repo](https://github.com/GxAniket/weather-app-nextjs)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Encryptor / Decryptor Tool
-
-Browser-based file encryption and decryption using AES-GCM.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AES-GCM](https://img.shields.io/badge/-AES--GCM-2ECC71?style=flat-square)
-
-[GitHub Repo](https://github.com/GxAniket/encryptor-decryptor-version-1)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 Music Player
-
-Frontend music player with interactive controls and audio playback.
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[GitHub Repo](https://github.com/GxAniket/music-player)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ Todo App
-
-A modern personal productivity and task management application built with React.js.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Local Storage](https://img.shields.io/badge/Local_Storage-7952B3?style=flat-square)
-
-[GitHub Repo](https://github.com/GxAniket/todo-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🥊 UIT Campus Fighters
-
-A Unity-based 3D college fighting game featuring student characters, combat, combos, enemy AI, and university arenas.
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![3D Game Development](https://img.shields.io/badge/3D_Game_Development-6A5ACD?style=flat-square)
-![Game Design](https://img.shields.io/badge/Game_Design-8A2BE2?style=flat-square)
-
-[GitHub Repo](https://github.com/GxAniket/Uit-Campus-Fighters)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Integrated Logistics Intelligence Platform
-
-Full-stack logistics platform developed during my Infosys Springboard internship for shipment management, live tracking, ETA calculation, and delivery monitoring.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6A5ACD?style=flat-square)
-
-[GitHub Repo](https://github.com/GxAniket/Integrated-Logistics-Intelligence-Platform)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 🧑‍💻 About Me
+
+</div>
+
+```yaml
+Name        : Aniket Sundriyal
+Role        : B.Tech CSE Student | Developer
+Languages   : [ Java, JavaScript, Python, TypeScript ]
+Passions    : [ Building, Learning, Problem Solving, Game Development ]
+Ask_Me_About: [ Java, DSA, Full Stack Development, AI & ML ]
+Currently   : Strengthening DSA and building full-stack projects 🚀
+```
+
+<div align="center">
+
+---
+
+### 💻 Tech Stack
 
 <div align="center">
 <table>
@@ -245,6 +120,26 @@ Full-stack logistics platform developed during my Infosys Springboard internship
 
 ---
 
+## 📊 My GitHub Data
+
+<div align="center">
+
+<img 
+  align="center" 
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight" 
+  alt="Aniket's GitHub Stats"
+/>
+
+<img 
+  align="center" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=tokyonight" 
+  alt="Aniket's GitHub Streak"
+/>
+
+</div>
+
+---
+
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
@@ -263,38 +158,49 @@ Full-stack logistics platform developed during my Infosys Springboard internship
 
 ---
 
-## 📊 My GitHub Data
-
-<div align="center">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight" 
-    alt="Aniket's GitHub Stats"
-  />
-
-<img 
- align="center" 
- src="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=tokyonight" 
- alt="Aniket's GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <a href="https://aniket-portfolio-react.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🚀%20Live%20Portfolio%20CLICK%20HERE-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="portfolio"
+    />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me 🧑‍💻
 
 <p align="center">
+
   <a href="https://github.com/GxAniket">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="mailto:sundriyalaniket@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/aniket-sundriyal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/whitehat_aniket/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 </p>
+
+---
+
+<!-- Footer wave -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:dbeafe&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+</picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GxAniket&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
