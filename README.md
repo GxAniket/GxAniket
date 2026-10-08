@@ -15,19 +15,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;B.Tech+CSE+Student;DSA+%7C+Java+%7C+Spring+Boot;React+%7C+Node.js+%7C+Next.js;AI+%26+Machine+Learning;Unity+Game+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;B.Tech+CSE+Student;DSA+%7C+Java+%7C+Spring+Boot;React+%7C+Node.js+%7C+Next.js;AI+%26+Machine+Learning;Always+Learning+%26+Building+🚀" alt="Typing SVG"/>
 </p>
 
 ---
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-
-</div>
-
 ```yaml
 Name        : Aniket Sundriyal
-Role        : B.Tech CSE Student | Developer
+Role        : B.Tech CSE Student | Java Full Stack Developer
 Languages   : [ Java, JavaScript, Python, TypeScript ]
 Passions    : [ Building, Learning, Problem Solving, Game Development ]
 Ask_Me_About: [ Java, DSA, Full Stack Development, AI & ML ]
@@ -118,7 +115,7 @@ Currently   : Strengthening DSA and building full-stack projects 🚀
 <img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>pgAdmin
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>Machine Learning
@@ -130,16 +127,31 @@ Currently   : Strengthening DSA and building full-stack projects 🚀
 
 ---
 
-<h2 align="center">📊 My GitHub Data</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GxAniket&show_icons=true&theme=tokyonight" 
-    alt="Aniket's GitHub Stats"
-  />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=GxAniket&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
+    <img src="https://github-readme-stats.vercel.app/api?username=GxAniket&show_icons=true&theme=default&hide_border=true&title_color=1d6ae5&icon_color=1d6ae5" height="170" alt="GitHub Stats"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GxAniket&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GxAniket&layout=compact&theme=default&hide_border=true&title_color=1d6ae5" height="170" alt="Top Languages"/>
+  </picture>
+</p>
 
-</div>
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GxAniket&theme=default&hide_border=true&ring=1d6ae5&fire=ff4500&currStreakLabel=1d6ae5" height="170" alt="GitHub Streak"/>
+  </picture>
+</p>
 
 ---
 
